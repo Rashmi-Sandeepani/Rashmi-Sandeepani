@@ -1,15 +1,15 @@
 <!-- Profile header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rashmi%20Sandeepani&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Graduate%20%E2%80%A2%20Software%20Engineer&descAlignY=58&color=0:0F172A,100:2563EB&fontColor=FFFFFF" alt="Rashmi Sandeepani profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rashmi%20Sandeepani&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Graduate%20%E2%80%A2%20Software%20Engineer&descAlignY=55&color=gradient&customColorList=6,12,20&fontColor=ffffff&descColor=ffffff" alt="Rashmi Sandeepani - Computer Science Graduate • Software Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Software+Engineer;AI+and+LLM+Enthusiast;DevOps+and+Cloud+Explorer;Building+practical+software+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Software+Engineer;AI+and+LLM+Enthusiast;DevOps+and+Cloud+Learner)](https://github.com/Rashmi-Sandeepani)
 
 <p>
   <a href="https://www.linkedin.com/in/rashmi-wijenayaka-a28311263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rwijenayaka15@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Rashmi-Sandeepani">
@@ -17,11 +17,13 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rashmi-Sandeepani&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
+
 </div>
 
 ## About
 
-Computer Science graduate and software engineer with a strong interest in Artificial Intelligence, Large Language Models, AI agents, agentic AI, software development, and DevOps engineering. I enjoy learning emerging technologies and applying them to practical, well-designed projects.
+Computer Science graduate and software engineer with a strong interest in Artificial Intelligence, Large Language Models, AI agents, agentic AI, software development, and DevOps engineering. I enjoy learning new technologies and applying them to practical, real-world problems.
 
 - Exploring AI research, LLM applications, and autonomous agent workflows
 - Building a strong foundation across software engineering and DevOps
@@ -81,8 +83,8 @@ Computer Science graduate and software engineer with a strong interest in Artifi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rashmi-Sandeepani&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=475569&rank_icon=github" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandeepani&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569&langs_count=8" alt="Top programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rashmi-Sandeepani&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=475569&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandeepani&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Rashmi-Sandeepani&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub contribution streak" />
 
@@ -94,15 +96,3 @@ Computer Science graduate and software engineer with a strong interest in Artifi
 
 - Large Language Model application design
 - AI agents and agentic workflows
-
-## Connect
-
-- LinkedIn: [Rashmi Wijenayaka](https://www.linkedin.com/in/rashmi-wijenayaka-a28311263)
-- GitHub: [Rashmi-Sandeepani](https://github.com/Rashmi-Sandeepani)
-- Email: `rwijenayaka15@gmail.com`
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rashmi-Sandeepani&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
-
-</div>
