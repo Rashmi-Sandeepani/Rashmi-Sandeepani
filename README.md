@@ -90,32 +90,16 @@ Computer Science graduate and software engineer with a strong interest in Artifi
 
 </div>
 
-## Featured Projects
-
-> Project links will appear here as repositories become available.
-
-- **Project Name** — Briefly describe the problem, implementation, and technologies used.  
-  `Technology` `Technology` · [View Repository](https://github.com/Rashmi-Sandeepani/REPOSITORY-NAME)
-
-- **Project Name** — Briefly describe the problem, implementation, and technologies used.  
-  `Technology` `Technology` · [View Repository](https://github.com/Rashmi-Sandeepani/REPOSITORY-NAME)
-
-- **Project Name** — Briefly describe the problem, implementation, and technologies used.  
-  `Technology` `Technology` · [View Repository](https://github.com/Rashmi-Sandeepani/REPOSITORY-NAME)
-
 ## Currently Learning
 
 - Large Language Model application design
 - AI agents and agentic workflows
-- Retrieval-Augmented Generation
-- Machine learning foundations
-- Cloud-native development and DevOps practices
 
 ## Connect
 
 - LinkedIn: [Rashmi Wijenayaka](https://www.linkedin.com/in/rashmi-wijenayaka-a28311263)
 - GitHub: [Rashmi-Sandeepani](https://github.com/Rashmi-Sandeepani)
-- Email: `your-email@example.com`
+- Email: `rwijenayaka15@gmail.com`
 
 <div align="center">
 
